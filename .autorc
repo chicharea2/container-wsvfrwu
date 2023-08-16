@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "chicharea2",
+  "repo": "container-wsvfrwu",
+  "name": "chicharea2",
+  "email": "omadam1984r@gmail.com",
+}
